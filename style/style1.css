@@ -45,7 +45,7 @@ body, div, ul, li {
 	text-decoration: none;
 	color: #fff;
 	text-indent: 8px;/*文本缩进*/
-	background-image: url("../imgs/jt.png");/*注意路径*/
+	background-image: url(../imgs/jt.png);/*注意路径*/
 	background-repeat: no-repeat;
 	background-position: right;
 	cursor: pointer;
